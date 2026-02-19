@@ -1,0 +1,5 @@
+{
+  "name": "Indian Weather App",
+  "description": "A sleek and modern weather application that provides real-time weather information and a 5-day forecast for any location across India, powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
