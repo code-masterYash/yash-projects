@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Chat",
+  "description": "A sleek, ChatGPT-like web application powered by the Gemini API, enabling users to engage in conversational AI that understands both text and images.",
+  "requestFramePermissions": []
+}
