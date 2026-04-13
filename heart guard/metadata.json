@@ -1,0 +1,5 @@
+{
+  "name": "HeartGuard AI",
+  "description": "An advanced heart disease prediction application using Google Gemini 2.5 for analysis and React for visualizing patient health metrics against historical datasets.",
+  "requestFramePermissions": []
+}
