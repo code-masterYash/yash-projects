@@ -1,0 +1,7 @@
+{
+  "name": "SereneAI Mental Health Companion",
+  "description": "A compassionate AI chatbot that acts as a mental health companion. It understands text and images to provide supportive guidance, acting as a virtual doctor to help with mental and physical wellness. Features voice input for ease of use.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
