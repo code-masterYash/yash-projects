@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ❤️ Heart Guide AI
 
-# Run and deploy your AI Studio app
+**Heart Guide AI** is a smart, AI-powered assistant designed to analyze heart-related data and provide clear, human-friendly guidance. It bridges the gap between complex data and simple understanding.
 
-This contains everything you need to run your app locally.
+## 🌟 Key Highlights
 
-View your app in AI Studio: https://ai.studio/apps/drive/1T2iuN5VDx7TuF5GduAoV9glbYs5FrgOv
+* 🔍 Intelligent analysis of heart-related inputs
+* 🧠 Detects patterns and anomalies
+* 💬 Converts technical insights into easy explanations
+* 🤖 Acts like a virtual guide or assistant
+* 📈 Improves decision-making with AI support
 
-## Run Locally
+## 🧩 How It Works
 
-**Prerequisites:**  Node.js
+1. Input heart-related data
+2. AI processes and analyzes patterns
+3. System identifies potential insights
+4. Outputs easy-to-understand explanations
 
+## 🎯 Vision
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+To empower users with accessible and understandable heart-related insights using Artificial Intelligence.
+
+## 🛠️ Technologies Used
+
+* Python
+* AI / Machine Learning Concepts
+* Data Analysis
+
+## 🚀 Future Scope
+
+* Integration with wearable devices
+* Real-time monitoring
+* Personalized recommendations
+* Voice-enabled assistant
+
+## 🤝 Contribution
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+---
+
+❤️ Built with the vision of combining technology and care.
