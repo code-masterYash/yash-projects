@@ -1,20 +1,90 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ❤️ Heart Guide AI
 
-# Run and deploy your AI Studio app
+### Your Calm, Intelligent AI Companion
 
-This contains everything you need to run your app locally.
+Heart Guide AI is more than just a project — it's a gentle AI companion designed to listen, guide, and support you through understanding data, thoughts, or emotions in a simple and human way.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Sf2dPznX9HHCgL0r9UMLyHiokmHq4pUW
+---
 
-## Run Locally
+## 🌿 What It Feels Like
 
-**Prerequisites:**  Node.js
+Not a tool.
+Not just code.
 
+A quiet space where:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* You can explore ideas
+* Understand complex things easily
+* Receive guidance without judgment
+
+---
+
+## 🧠 What It Does
+
+Heart Guide AI combines intelligence with empathy:
+
+* 🔍 Analyzes input data intelligently
+* 💬 Explains things in simple, human language
+* 🤝 Acts like a supportive mentor
+* 🧩 Breaks down complexity into clarity
+* 🎧 (Optional) Speaks with you using voice
+
+---
+
+## ✨ Core Idea
+
+> “Technology should not just be smart — it should feel human.”
+
+This project is built to transform:
+
+* ❌ Complex logic → ✅ Simple understanding
+* ❌ Technical output → ✅ Friendly guidance
+* ❌ Cold responses → ✅ Warm conversations
+
+---
+
+## 🌱 Features
+
+* 🧠 AI-powered analysis
+* 💬 Human-like explanations
+* 🛠️ Actionable suggestions
+* 🎯 Beginner-friendly guidance
+* 🔊 Voice assistant support
+
+---
+
+## 🛠️ Built With
+
+* Python
+* AST (Abstract Syntax Tree)
+* AI/Logic-based Explanation Engine
+* Text-to-Speech
+
+---
+
+## 🚀 Vision
+
+To create AI systems that:
+
+* Understand humans
+* Speak like mentors
+* Guide like a companion
+
+---
+
+## 🔮 Future Scope
+
+* 🧘 Emotional intelligence layer
+* 📊 Smarter personalized insights
+* 🌐 Web interface
+* 🤖 Conversational AI integration
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes only and does not provide professional or medical advice.
+
+---
+
+💙 *Built to guide. Designed to understand. Inspired by human connection.*
