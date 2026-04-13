@@ -1,0 +1,5 @@
+{
+  "name": "AgroPulse",
+  "description": "AI-Powered Farmer Intelligence Dashboard providing crop price predictions, recommendations, and weather risk analysis.",
+  "requestFramePermissions": []
+}
